@@ -1,0 +1,11 @@
+pandas
+geopandas
+matplotlib
+plotly
+folium
+contextily
+jupyter_contrib_nbextensions
+nbconvert[webpdf]
+seaborn
+ipympl
+openpyxl
