@@ -9,3 +9,4 @@ nbconvert[webpdf]
 seaborn
 ipympl
 openpyxl
+jupyter-dash
