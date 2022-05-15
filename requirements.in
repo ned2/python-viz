@@ -4,7 +4,10 @@ contextily
 dtale
 folium
 geopandas
+geoplot
+geoviews
 holoviews
+ipyleaflet
 ipympl
 isort
 jupyter-dash
