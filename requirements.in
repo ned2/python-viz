@@ -20,3 +20,4 @@ pandas
 plotly
 rasterio==1.3b1
 seaborn
+vega_datasets
